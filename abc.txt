@@ -1,1 +1,4 @@
 this is my second file
+
+
+The git reset command is a powerful tool in Git that allows you to undo changes in your repository. It can modify the commit history and alter the state of your working directory and staging area. This command is often considered destructive because it can discard commits, which can lead to the loss of changes if not used carefully. In this guide, we will explore how to use git reset with its three primary modes: --soft, --mixed, and --hard.
